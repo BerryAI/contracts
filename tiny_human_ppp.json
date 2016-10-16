@@ -1,0 +1,53 @@
+{
+    license:[
+        {
+          type: 0,
+          rate : 1
+        }
+    ],
+    distribution: [
+        {
+            benefitiary: "Imogen Heap"
+            payment_address: "cccccontract01",
+            rate: 91.25%
+        },
+        {
+            benefitiary:"Stephanie Appelhans",
+            payment_address: "0xhk_MY_ADDRESS",
+            rate: 1.25%
+        },
+        {
+            benefitiary:"Diego Romano",
+            payment_address: "0xhk_AUTHOR_ADDRESS",
+            rate: 1.25%
+        }
+        {
+            benefitiary:"Yasin Gündisch",
+            payment_address: "0xhk_AUTHOR_ADDRESS",
+            rate: 1.25%
+        }
+        {
+            benefitiary:"Hoang Nguyen",
+            payment_address: "0xhk_AUTHOR_ADDRESS",
+            rate: 1.25%
+        }
+        {
+            benefitiary:"Simon Minshall",
+            payment_address: "0xhk_AUTHOR_ADDRESS",
+            rate: 1.25%
+        }
+        {
+            benefitiary:"David Horwich",
+            payment_address: "0xhk_AUTHOR_ADDRESS",
+            rate: 1.25%
+        }
+        {
+            benefitiary:"Simon Heyworth",
+            payment_address: "0xhk_AUTHOR_ADDRESS",
+            rate:
+        }
+    ],
+    work: {
+        address: "released_work_on_blockchain";
+    }
+}

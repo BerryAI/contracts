@@ -1,0 +1,22 @@
+{
+    refworks: [“wwwwwwwwork01”, “wwwwwwwwork02”],
+    type: 3,
+    title: "Tiny Human",
+    timestamp: ""
+    violin: "Stephanie Appelhans",
+    violin: "Diego Romano",
+    cello: "Hoang Nguyen",
+    viola:"Yasin Gündisch",
+    synthesizer:"Imogen Heap",
+    percussion:"Florence \"Scout\" Heap-Lebor",
+    bass trombone:"Simon Minshall",
+    trombone:"Simon Minshall",
+    French horn:"David Horwich",
+    assistant engineer:"Alexis Michallek",
+    lead vocals:"Imogen Heap",
+    mixer:"Imogen Heap",
+    producer: "Imogen Heap",
+    programming:"Imogen Heap",
+    recorded at:"The Hideaway (Imogen Heap's studio) in London, England, United Kingdom"
+    work_hash: "wwwwwwwwork03"
+}
