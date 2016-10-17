@@ -1,0 +1,15 @@
+
+{
+    license:[
+        {
+            type: "musicscore"
+            composer: "Dan Phifer",
+            payment_address: "0xhkjkhwerhkwehkwerkhk1jhe8whb30",
+            rate: 0.1,
+        }
+    ],
+    work: {
+        address: "adrsofthewok",
+        hash: ""
+    }
+}

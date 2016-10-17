@@ -1,0 +1,18 @@
+{
+    license:[
+        {
+          type: "PPP",
+          rate : 1
+        }
+    ],
+    distribution: [
+        {
+            benefitiary: "Dan Phifer"
+            payment_address: "cccccontract01",
+            rate: 100%
+        }
+    ],
+    work: {
+        address: "released_work_on_blockchain";
+    }
+}
