@@ -1,0 +1,18 @@
+
+{
+    license:[
+        {
+            composer: "Imogen Heap",
+            payment_address: "0xhkjkhwerhkwehkwerkhk1jhe8whb30",
+            rate: 0.1,
+        },
+        {
+            lyricist: "Imogen Heap",
+            payment_address: "0xhkqtl4nwerjpphrkvs0el05hp43mdz",
+            rate: 0.05,
+        }
+    ],
+    work: {
+        hash: "wwwwwwwwork01"
+    }
+}
